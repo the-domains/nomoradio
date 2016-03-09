@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2529538
+  brandStrength: 0.1506155
+  lightness: 0.7406015
+  rhythmicContrast: 0.8791621
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.9017185
+name: Nomoradio
