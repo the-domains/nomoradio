@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.2529538
+  saturation: 0.8200859
   brandStrength: 0.1506155
-  lightness: 0.7406015
-  rhythmicContrast: 0.8791621
+  lightness: 0.2841031
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.9017185
+  rhythmicContrast: 0.7524167
+typography_spectrum: 0.8931257
+layout_spectrum: 1
 name: Nomoradio
